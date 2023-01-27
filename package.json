@@ -1,0 +1,25 @@
+{
+  "name": "prueba-tecnica-alterna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnovoalujan/prueba-tecnica-alterna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnovoalujan/prueba-tecnica-alterna/issues"
+  },
+  "homepage": "https://github.com/jnovoalujan/prueba-tecnica-alterna#readme",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.2",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "cypress": "^12.4.1",
+    "esbuild": "^0.16.5"
+  }
+}
